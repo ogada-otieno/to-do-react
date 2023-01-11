@@ -2,7 +2,9 @@ import React from 'react'
 
 function Foooter() {
   return (
-    <div>This is a footer</div>
+    <section className="footer">
+        This will hold the footer!
+    </section>
   )
 }
 
